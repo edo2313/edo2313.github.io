@@ -1,2 +1,1 @@
-# edo2313.github.io
-Personal Github Pages Website
+[Open the website](https://edo2313.github.io)

@@ -1,7 +1,11 @@
 - name: Adobe Photoshop
-  percentage: 95
+  percentage: 85
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: DaVinci Resolve
+  percentage: 70
   color: success
+
+- name: Electronics
+  percentage: 90
+  color: danger
