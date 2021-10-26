@@ -1,7 +1,7 @@
 ---
 name: MacroPad
 tools: [Electronics, Arduino, MIDI]
-image: https://i.imgur.com/Lie9DKI.jpg
+image: https://i.imgur.com/FPKdLqj.png
 description: Small PCB with some buttons and rotary encoders to do whatever you want
 ---
 
