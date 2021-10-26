@@ -1,11 +1,15 @@
+- name: Electronics
+  percentage: 90
+  color: danger
+
 - name: Adobe Photoshop
   percentage: 85
-  color: info
+  color: primary
 
 - name: DaVinci Resolve
   percentage: 70
   color: success
 
-- name: Electronics
-  percentage: 90
-  color: danger
+- name: Fusion 360
+  percentage: 60
+  color: warning
