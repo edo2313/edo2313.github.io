@@ -9,7 +9,7 @@ description: Small PCB with some buttons and rotary encoders to do whatever you 
 
 # MacroPad
 
-Yeah, I know. That name **sucks**. But whatever, it's not like I need to sell this thing. :shrug:
+Yeah, I know. That name **sucks**. But whatever, it's not like I need to sell this thing.
 
 First of all, a bit of context. I set up [Voicemeeter](https://vb-audio.com/Voicemeeter/banana.htm) on my PC so I can control different audio streams separately and so I could improve the quality of my microphone that is connected to an external audio interface. Having to tab out of what I was doing to lower the Spotify volume when someone was talking on Discord became so annoying that I started thinking of something else.
 
