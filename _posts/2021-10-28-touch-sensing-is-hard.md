@@ -6,8 +6,6 @@ color: warning
 description: You think that touch sensing is simple because you saw a video of a 13-year old turning on an LED with an arduino connected to a wire and some aluminium foil? Think again.
 ---
 
-# Touch sensing is HARD
-
 Some time ago I printed [this lamp](https://www.thingiverse.com/thing:4129249) and put it on my bedside table to give a nice touch to my room. I can control it with [Home Assistant](https://www.home-assistant.io/), but sometimes I switch off my phone before turning it off and so I'm left with 2 possibilities:
 
 - Turning on my phone again only to switch it off
