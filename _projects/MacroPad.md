@@ -59,7 +59,7 @@ https://i.imgur.com/Lie9DKI.jpg
 The awesome [Control Surface](https://github.com/tttapa/Control-Surface) library makes writing MIDI programs on Arduino a breeze.
 The only thing I need to add is a way for the LEDs to turn off automatically after a set period of time, right now they stay on after I turn off my pc so I need to disconnect and reconnect the USB cable to power cycle the circuit. Not a big problem but it can be improved.
 
-```arduino
+```c
 #include <Encoder.h>
 #include <FastLED.h>
 
